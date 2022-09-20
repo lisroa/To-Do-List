@@ -1,0 +1,30 @@
+
+body {
+  background-color: rgb(212, 165, 174);
+}
+
+
+.App {
+    background-color: white;
+    width: 520px;
+    min-height: 600px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    padding: 10px;
+  }
+
+.tittle {
+   font-family: 'Cormorant Garamond', serif;
+   text-align: center;
+   justify-content: center;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+   text-align: center;
+   justify-content: center;
+   font-weight: bold;
+   margin-top: 20px;
+}
