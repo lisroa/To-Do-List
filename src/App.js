@@ -8,10 +8,6 @@ const date = new Date();
 const todayText = date.toLocaleString('en', {weekday: 'long'});
 
 
-/*const todayNumber = date.toLocaleString('esn',{day: 'numeric'});
-const month = date.toLocaleString('en',{month: 'short'});
-const year = date.toLocaleString('en',{year: 'numeric'});*/
-
 
 function App() {
 
@@ -70,10 +66,3 @@ const completedTask = (id) => {
 
 export default App;
 
-/*{listOfTask.map((task) => {
-        return <Task
-        text= {task}
-        key = {task.id}
-        id= {task.id}
-        deleteTask= {deleteTask}/>
-      })}*/
