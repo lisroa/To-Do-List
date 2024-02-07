@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <a href="https://geoquizz.netlify.app" target="_blank">Demo: https://geoquizz.netlify.app</a>
+  <a href="https://seemytasks.netlify.app" target="_blank">Demo: https://seemytasks.netlify.app</a>
 </p>
